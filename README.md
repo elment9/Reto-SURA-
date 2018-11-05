@@ -51,7 +51,7 @@ Sura busca llegar a más personas a través de un canal digital que le permita a
 * Prototipo Baja Fidelidad 
 ![1](https://user-images.githubusercontent.com/39272944/47974002-611ebd00-e075-11e8-8601-db464b4a7fe0.jpg)
 ![2](https://user-images.githubusercontent.com/39272944/47974001-611ebd00-e075-11e8-93ef-25eefac1b237.jpg)
-![3](https://user-images.githubusercontent.com/39272944/47974003-611ebd00-e075-11e8-8d21-1a7ae7393df9.jpg)
+![3](https://user-images.githubusercontent.com/39272944/47974069-c5418100-e075-11e8-9abc-cc11f5babd6b.jpg)
 
 * [Prototipo Alta Fidelidad Figma](https://www.figma.com/file/ayEe6W55d4YXTetWOK7pjISM/Sura)
 * [Iteración](https://www.figma.com/file/gUlMYK6DETiqDMHYQn9iGD/Sura-Iteraci%C3%B3n?node-id=0%3A1)
