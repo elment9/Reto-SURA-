@@ -8,7 +8,6 @@ Sura actualmente cuenta con un número limitado de asesores, tiempo y agencias l
 Diseñar un canal digital que replique la experiencia de asesoramiento presencial. Tiene que expresar un trato preferencial y exclusivo con los usuarios, sin dejar de lado los valores de la empresa: Autogestión, simple, transparente y flexible.
 
 ## NUESTRA PROPUESTA
-* Prototipo Baja Fidelidad 
 * [Prototipo Alta Fidelidad Figma](https://www.figma.com/file/ayEe6W55d4YXTetWOK7pjISM/Sura)
 * [Prototipo Interactivo 1](https://marvelapp.com/60g85e7/screen/48924458)
 * [Iteración](https://www.figma.com/file/gUlMYK6DETiqDMHYQn9iGD/Sura-Iteraci%C3%B3n?node-id=0%3A1)
@@ -50,6 +49,10 @@ Sura busca llegar a más personas a través de un canal digital que le permita a
 ![benchmark](https://user-images.githubusercontent.com/39272944/46798682-3e201800-cd18-11e8-9119-95cc54cc086b.PNG)
 ## 4. Prototipado
 * Prototipo Baja Fidelidad 
+![086428d7-4296-4983-acf0-6672cbd42c38](https://user-images.githubusercontent.com/39272944/47972613-df766180-e06b-11e8-96c6-0f05a78b05be.jpg)
+![7f3231dc-216e-4254-b437-cff680b1c840](https://user-images.githubusercontent.com/39272944/47972614-df766180-e06b-11e8-84b5-c09b2d9a4287.jpg)
+![46be0882-fbbd-428a-8112-72faea21ef1c](https://user-images.githubusercontent.com/39272944/47972615-df766180-e06b-11e8-9701-5554a903d659.jpg)
+
 * [Prototipo Alta Fidelidad Figma](https://www.figma.com/file/ayEe6W55d4YXTetWOK7pjISM/Sura)
 * [Iteración](https://www.figma.com/file/gUlMYK6DETiqDMHYQn9iGD/Sura-Iteraci%C3%B3n?node-id=0%3A1)
 ## 5. Testing
